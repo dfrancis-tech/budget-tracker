@@ -13,7 +13,7 @@
  This budget tracker application to allow for offline access and functionality. The user will be able to add expenses and deposits to their budget with or without a connection. If the user enters transactions offline, the total should be updated when they're brought back online. 
 
 ## Live Project
-Visit [website]() and enjoy the food festival!
+Visit [website](https://sleepy-meadow-11337.herokuapp.com/) and enjoy tracking your money!
 
 ## Built With
 * [JavaScript](https://www.javascript.com/)
