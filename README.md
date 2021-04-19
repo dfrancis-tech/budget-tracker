@@ -17,7 +17,6 @@ Visit [website]() and enjoy the food festival!
 
 ## Built With
 * [JavaScript](https://www.javascript.com/)
-* [jQuery](https://jquery.com/)
 * [Node.js](https://nodejs.org/en/)
 * [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
 * [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
@@ -26,19 +25,14 @@ Visit [website]() and enjoy the food festival!
 * [Express.js](https://expressjs.com/)
 * [IndexedDB](https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API)
 * [MongoDB](https://www.mongodb.com/2)
+* [MongoDB Atlas](https://www.mongodb.com/cloud/atlas)
 * [Mongoose](https://mongoosejs.com/)
 * [Morgan](https://www.npmjs.com/package/morgan)
 * [Compression](https://www.npmjs.com/package/compression)
-* [Webpack](https://webpack.js.org/)
-    * [wedpack-cli](https://www.npmjs.com/package/webpack-cli)
-    * [webpack-bundle-analyzer](https://www.npmjs.com/package/webpack-bundle-analyzer)
-    * [file loader](https://www.npmjs.com/package/file-loader)
-    * [image-webpack-loader](https://www.npmjs.com/package/image-webpack-loader)
 * [Service Workers](https://developers.google.com/web/fundamentals/primers/service-workers)
-    * [webpack-dev-server](https://www.npmjs.com/package/webpack-dev-server)
-    * [SW-precache-webpack](https://www.npmjs.com/package/sw-precache-webpack-plugin)
 * [Progressive Web Application](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps)
-    * [webpack-PWA-manifest](https://www.npmjs.com/package/webpack-pwa-manifest)
+* [Heroku](https://www.heroku.com/)
+    
 
  ## User Story
 <details>
