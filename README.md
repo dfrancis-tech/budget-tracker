@@ -56,7 +56,9 @@ Visit [website](https://sleepy-meadow-11337.herokuapp.com/) and enjoy tracking y
 </details>
 
 ## Mock-Up
-The following image shows the web application's appearance and functionality.
+The following image shows the web application's appearance and functionality.  
+  
+![Mock-up image](assets/images/Budget-Tracker.gif "Mock-up image")
 
 ## Code Review
 The completed project is uploaded in Github.  
